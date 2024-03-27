@@ -1,8 +1,8 @@
 if not ( glowEyes ) then
-    error("[glowEyes: Metropolice Pack] GlowEyes is not installed!")
+    error("[glowEyes: Nemez Combine Soldiers Pack] GlowEyes is not installed!")
 end
 
-print("[GlowEyes] Metropolice Pack made by eon (bloodycop)")
+print("[GlowEyes] Nemez Combine Soldiers Pack made by eon (bloodycop)")
 
 glowEyes:Register("models/nemez/combine_soldiers/combine_soldier_beta_h.mdl", {
     serverInit = function(self, ent)
